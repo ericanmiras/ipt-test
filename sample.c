@@ -7,6 +7,9 @@
 
 
 		printf("Hello World in Git!");
+    
+		printf("Hi! Dis is khel!");
+
                 printf("Hi ric, I'm Maureen");
                 
                 printf("Hello World in Git!");
