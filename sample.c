@@ -14,6 +14,6 @@
                 printf("Hi renggg");
 
 		
-		printf("edited in github);
+		printf("edited in github");
 		printf("from branch staging");
 }
